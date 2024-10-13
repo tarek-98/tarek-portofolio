@@ -1,4 +1,4 @@
-<a href="https://tarek-98.github.io/portfolio/">portfolio</a>
+
 # portfolio
 using react.js
 =======
